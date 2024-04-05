@@ -1,0 +1,11 @@
+model,weight,height,width,length
+MountainBike,12000,40,28,180
+RoadBike,9000,38,25,170
+BMXBike,10000,36,24,160
+HybridBike,10500,39,27,175
+CruiserBike,13000,42,30,190
+TouringBike,11000,40,28,185
+ElectricBike,14000,38,26,180
+FoldingBike,9500,34,22,165
+CommuterBike,11500,37,26,175
+GravelBike,10500,39,27,180
